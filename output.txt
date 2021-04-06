@@ -1,0 +1,3 @@
+Best solver:  sag
+Accuracy Score:  0.96
+F1 Score:  0.9606968478323751 
